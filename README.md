@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **JavaScript and Python**
 
-- 👨‍💻 All of my projects are available at [https://rafisgithub.github.io/portfolioWebsite/](https://rafisgithub.github.io/portfolioWebsite/)
+- 👨‍💻 All of my projects are available at [https://rafisgithub.github.io/portfolioWebsite/]([https://rafisgithub/](https://github.com/rafisgithub))
 
 - 💬 Ask me about **Laravel and Reactjs**
 
-- 📫 How to reach me **smrafi@gmail.com**
+- 📫 How to reach me **smrafi120@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Be2jXc4yDyu3euVeEP8Rdz8iUnxOBTpj/view](https://drive.google.com/file/d/1Be2jXc4yDyu3euVeEP8Rdz8iUnxOBTpj/view)
 
